@@ -42,7 +42,7 @@ body{
 #btn:active{
     box-shadow: 4px 4px 8px #000;
 }
-#password{
+.password{
     border-radius: 8px;
     text-align: center;
     padding: 20px 5px;
